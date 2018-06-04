@@ -9,4 +9,4 @@ After execution, the filters can be for SdA and dA can be found in theirs respec
 
 This project is based on the tutorial on Deeplearning.net, however, some chances were made and the handler files are my owns. 
 
-Due to size restriction, SVHN dataset (train set) cannot be uploaded to GitHub. The set can be found in the following link:  http://ufldl.stanford.edu/housenumbers/
+Due to size restriction, SVHN dataset cannot be uploaded to GitHub. The set can be found in the following link:  http://ufldl.stanford.edu/housenumbers/
