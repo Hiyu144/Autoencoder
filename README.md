@@ -7,7 +7,7 @@ Both SdA.py and dA.py are currently for SVHN. In order to run other datasets, so
 
 After execution, the filters can be for SdA and dA can be found in theirs respective folder.
 
-This project is based on the tutorial on Deeplearning.net, however, some chances were made and the handler files are my owns. 
+This project is based on the tutorial on Deeplearning.net, however, some changes were made and the handler files are my owns. 
 
 Due to size restriction, SVHN dataset cannot be uploaded to GitHub. The set can be found in the following link:  http://ufldl.stanford.edu/housenumbers/
 
